@@ -159,7 +159,7 @@ Calculador.addActionListener( new ActionListener(){
             });
 
 
-setSize(400,250);
+setSize(740,350);
 setVisible(true);
 texto.requestFocus();
 }
